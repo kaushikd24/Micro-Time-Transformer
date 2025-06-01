@@ -38,4 +38,7 @@ venv/
 *.bak
 *.orig
 *.rej
-*.sublime-* 
+*.sublime-*
+
+# Ignore PNG images
+*.png 
