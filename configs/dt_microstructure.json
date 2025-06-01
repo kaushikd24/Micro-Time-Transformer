@@ -1,0 +1,11 @@
+{
+  "data_path": "prepared_datasets/train.pt",
+  "state_dim": 18,
+  "action_dim": 3,
+  "embed_dim": 256,
+  "context_len": 10,
+  "num_classes": 3,
+  "epochs": 5,
+  "batch_size": 64,
+  "learning_rate": 1e-4
+} 
