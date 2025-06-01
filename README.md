@@ -23,7 +23,8 @@ We simulate how a trader would behave if they had a model that could "look back"
 
 ## Technical Details
 
-###Architecture
+### Architecture
+
 ![Model Architecture](images/architecture.png)
 
 NOTE: This image and the model architecture belongs to the authors of the [Decision Transformer Paper](https://arxiv.org/abs/2106.01345)
@@ -80,7 +81,7 @@ NOTE: Decision Transfomers are not evaluated in the traditional way. They need t
 
 ![Returns](images/returns.png)
 
---NOTE: This is not Financial Advice in any form. This is an experiment aimed to understanding how Machine Learning, Deep Learning and Reinforcement Learning methods perform in different domains. Kindly do your own research before making any investing decisions.
+-NOTE: This is not Financial Advice in any form. This is an experiment aimed to understanding how Machine Learning, Deep Learning and Reinforcement Learning methods perform in different domains. Kindly do your own research before making any investing decisions.
 
 ## How to Run and Install
 
