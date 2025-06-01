@@ -10,7 +10,6 @@ models/*.pt
 
 # Ignore data files
 *.csv
-*.json
 *.xls
 *.xlsx
 
