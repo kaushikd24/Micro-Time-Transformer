@@ -1,0 +1,41 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter notebooks
+*.ipynb
+
+# Ignore model checkpoints
+models/*.pt
+
+# Ignore data files
+*.csv
+*.json
+*.xls
+*.xlsx
+
+# Ignore system files
+.DS_Store
+
+# Ignore virtual environment
+venv/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore compiled files
+*.so
+*.dylib
+*.dll
+
+# Ignore other common files
+*.swp
+*~
+*.bak
+*.orig
+*.rej
+*.sublime-* 
