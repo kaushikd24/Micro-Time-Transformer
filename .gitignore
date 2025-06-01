@@ -40,5 +40,3 @@ venv/
 *.rej
 *.sublime-*
 
-# Ignore PNG images
-*.png 
