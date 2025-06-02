@@ -1,6 +1,6 @@
 # Decision Transformer for Market Microstructure Timing
 
-Transformer-based market timer that learns microstructure patterns and predicts tactical trading actions (BUY, HOLD, SELL) using only price-volume data. Think of it as a GPT for market states, it studies the current state of the market and predicts how the next day will look like. This is based on exploiting minute price changes in the stock index. The model has been trained on 2000-2023 data, and was validated on 2023-2025. Here is a HuggingFace demo: [link].
+Transformer-based market timer that learns microstructure patterns and predicts tactical trading actions (BUY, HOLD, SELL) using only price-volume data. Think of it as a GPT for market states, it studies the current state of the market and predicts how the next day will look like. This is based on exploiting minute price changes in the stock index. The model has been trained on 2000-2023 data, and was validated on 2023-2025. Here is a HuggingFace demo: [https://huggingface.co/spaces/kaushikd24/dt-huggingface-demo].
 
 Installation guide and results at the end.
 
